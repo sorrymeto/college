@@ -1,0 +1,393 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>腾讯大学</title>
+	<link rel="stylesheet" type="text/css" href="../css/tengxundaxue.css">
+</head>
+<body id="body">
+	<div id="head_top">
+		<div id="head_top_guding">
+		   
+			<a href="#"><img id="tu_1" src="../images/tengxun_16.gif"/></a>
+					<div id="zuobiankuang">
+						<a class="head_zi_1" href="#">智慧分享·生态共赢</a>
+					</div>
+			
+			<a href="#"><div class="nav">
+				<img class="head_nav" src="../images/tengxun_03.gif"/>
+				<span id="shouyezi">首页</span>
+				<div class="nav_xiafang">
+				</div>
+			</div></a>
+			
+			<a href="#"><div class="nav_1">
+				<img class="head_nav" src="../images/tengxun_05.gif"/>
+				<span class="nav_zi">微信学院</span>
+				<div class="nav_xiafang_1">
+				</div>
+			</div></a>
+			
+			<a href="#"><div class="nav_1">
+				<img class="head_nav" src="../images/tengxun_07.gif"/>
+				<span class="nav_zi">开放平台学院</span>
+				<div class="nav_xiafang_2">
+				</div>
+			</div></a>
+			
+			<a href="#"><div class="nav_1">
+				<img class="head_nav" src="../images/tengxun_09.gif"/>
+				<span class="nav_zi">互联网学院</span>
+				<div class="nav_xiafang_3">
+				</div>
+			</div></a>
+
+			<a href="#"><div class="nav_1">
+				<img class="head_nav" src="../images/tengxun_11.gif"/>
+				<span class="nav_zi">营销学院</span>
+				<div class="nav_xiafang_4">
+				</div>
+			</div></a>
+
+			<a href="#"><div class="nav_1">
+				<img class="head_nav" src="../images/tengxun_11.gif"/>
+				<span class="nav_zi">游戏学院</span>
+				<div class="nav_xiafang_5">
+				</div>
+			</div></a>
+			
+			<div id="zhuce" >
+				<a class="zi_1"href="#">注册</a><span class="zi_1">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a class="zi_1" href="#">登录</a>
+				<div id="input_div">
+					<input id="input" />
+					<img id="fangdajing" src="../images/tengxun_19.gif"/>
+				</div>
+			</div>
+		</div><!-- 这是head_top_guding的div-->
+	</div><!-- 这是head_top的div-->
+
+	<a href="#"><img id="tu_2" src="../images/tengxun_29.gif"/></a>
+	
+	<div id="div_zhibo">
+		<img id="tu_laba" src="../images/tenguxn_32.gif"><span id="zhiba_zi">直播预告</span>
+		<div id="qiu_1"></div>
+		<hr id="hr_1"/>
+		<div id="qiu_2"></div>
+		<a href="#"><img src="../images/tengxun_32.gif"/></a>
+	</div>
+
+	<div id="bodyer">
+		<div id="bodyer_guding">
+			<div id="bodyer_right">
+				<div id="bodyer_right_top">
+					<img id="tu_4" src="../images/tengxun_38.gif">
+					<span class="zi_nav_1">排行榜</span>
+						<div id="tao_right_1">
+							<div class="div_left_1">
+								<span id="zi_5">最热排行</span>
+							</div>
+							<div class="div_left_2">
+								<span id="zi_6">新课上线</span>
+							</div>
+						</div>
+						<div  id="bodyer_right_center">
+							<a href="#"><div class="div_bkimage">
+								<div class="div_color">
+									<div class="div_color_1">
+										<span class="zi_color">1</span>
+									</div>
+									<div class="div_color_1_right zi_color">
+										马化腾：腾讯将专注于做互联网...
+									</div>
+								</div>
+							</div></a>
+
+							<a href="#"><div class="div_bkimage_1">
+								<div class="div_color">
+									<div class="div_color_2">
+										<span class="zi_color">2</span>
+									</div>
+									<div class="div_color_1_right zi_color">
+										马化腾：通往互联网的七个...
+									</div>
+								</div>
+							</div></a>
+
+							<a href="#"><div class="div_bkimage_2">
+								<div class="div_color">
+									<div class="div_color_3">
+										<span class="zi_color">3</span>
+									</div>
+									<div class="div_color_1_right zi_color">
+										微信支付————对实体商业的价值
+									</div>
+								</div>
+							</div></a>
+
+							<a href="#"><div class="div_bkimage_3">
+								<div class="div_color">
+									<div class="div_color_2">
+										<span class="zi_color">4</span>
+									</div>
+									<div class="div_color_1_right zi_color">
+										微信支付————对实体商业的价值
+									</div>
+								</div>
+							</div></a>
+
+							<a href="#"><div class="div_bkimage_4">
+								<div class="div_color">
+									<div class="div_color_3">
+										<span class="zi_color">5</span>
+									</div>
+									<div class="div_color_1_right zi_color">
+										腾讯CXO David：探索未来是为...
+									</div>
+								</div>
+							</div></a>
+							
+							<div id="div_6-10">
+								<div class="div_6">
+									<img class="tu_float" src="../images/tengxun_86.gif"/>
+									<a class="zi_6-10" href="#">微信公开课第二季 广州站讨论...</a>
+								</div>
+								<div class="div_7">
+									<img class="tu_float" src="../images/tengxun_89.gif"/>
+									<a class="zi_6-10" href="#">马化腾演讲：腾讯现在只做两...</a>
+								</div>
+								<div class="div_7">
+									<img class="tu_float" src="../images/tengxun_91.gif"/>
+									<a class="zi_6-10" href="#">微信派年度评选之二：最具创...</a>
+								</div>
+								<div class="div_7">
+									<img class="tu_float" src="../images/tengxun_93.gif"/>
+									<a class="zi_6-10" href="#">创业公开课（深圳站）—创业...</a>
+								</div>
+								<div class="div_7">
+									<img class="tu_float" src="../images/tengxun_98.gif"/>
+									<a class="zi_6-10" href="#">【微信公开课Pro版】创新案...</a>
+								</div>
+							</div>
+							
+						</div><!--这是bodyer_right_center的div-->
+						<div id="right_center_2">
+								<a href="#"><img id="tu_tengxundaxue" src="../images/tengxun_100.gif"/></a>
+								<div id="div_tengxuendaxue">
+									<span class="zi_tengxuendaxue">腾讯大学</span><br/><br/>
+									<span class="zi_tengxuendaxue_2">腾讯大学作为腾讯特色的学习交流平台，服务于腾讯合作伙伴及用户，面向互联网产业链，传播腾讯经验，分享行业知识及优秀实践，助力合作伙伴成长，推动开放共赢的互联网生态圈的建立。</span>
+								</div>
+						</div>
+
+						
+				</div><!--这是bodyer_right_top的div-->
+				<div id="right_bottom">
+						<div id="right_bottom_1">
+							<img class="tu_float"src="../images/tengxun_108.gif"/><span id="zi_lianxiwomen">联系我们</span>
+							<span class="zi_hezuo">合作：</span><a class="zi_hezuo"href="#">university@tencent.com</a>
+							<span class="zi_hezuo">&nbsp;QQ：2813343187</span>
+						</div>	
+						<div id="zaixiankaoshi">
+							<span id="zi_zaixiankaoshi">在线考试</span>
+							<a href="#"><div id="div_rukou">
+								<span id="zi_rukou">ENTER入口</span>
+							</div></a>
+						</div>
+				</div>
+			</div><!--这是bodyer_right的div-->
+
+			<div id="bodyer_left">
+				<div class="bodyer_1">
+					<img  class="nav_tu" src="../images/tengxun_36.gif"/>
+					<span class="zi_nav">热门课程</span>
+					<a class="zi_more" href="#">more</a>
+					<div class="tao">
+						<div class="tao_left">
+							<a href="#"><img src="../images/tengxun_42.gif"/></a>
+							<a class="tao_left_nav" href="#">马化腾：企业市场要十年左右...</a>
+							<span class="tao_left_nav_zi">3月27日，2016中国IT领袖峰会在深圳举行，在“IT创新与共享经济”高端对...</span>
+						</div>
+						<div class="tao_center">
+							<a href="#"><img src="../images/tengxun_44.gif"/></a>
+							<a class="tao_left_nav" href="#">马化腾：腾讯将专注于做互联...</a>
+							<span class="tao_left_nav_zi">11月19日，世界互联网大会在乌镇举行。腾讯公司董事会主席兼CEO马化腾在...</span>
+						</div>
+						<div class="tao_center">
+							<a href="#"><img src="../images/tengxun_46.gif"/></a>
+							<a class="tao_left_nav" href="#">张小龙首次公开演讲，谈微信...</a>
+							<span class="tao_left_nav_zi">1月11日，张小龙出现在2016微信公开课PRO版现场，首次公开演讲，讲述了微...</span>
+						</div>
+					</div><!--这是tao的div-->
+				</div><!--这是bodyer_1的div-->
+				<div class="bodyer_2">
+					<img  class="nav_tu" src="../images/tengxun_55.gif"/>
+					<span class="zi_nav">干货分享</span>
+					<a class="zi_more" href="#">more</a>
+					<div class="tao_1">
+						<div class="tao_top">
+							<div class="tao_top_1">
+								<a href="#"><img class="tao_top_tu"src="../images/tengxun_61.gif"/></a>
+								<div class="tao_top_1_right">
+									<a class="zi_tao_top" href="#">UI概念设计与游戏UI动效趋势</a><br/>
+									<img src="../images/tengxun_65.gif"/>
+									<span class="zi_tao_top_2">2016-04-07 09:40</span><br/>
+									<span class="zi_tao_top_1">由网易资深视觉设计师，网易视觉专业设计师培训导师，优灵网络艺术总监，极限艺术艺术顾问U灵大神分享多年的游戏UI设计经验。</span>
+								</div>
+							</div>
+						</div>
+
+						
+						<div class="tao_center_1">
+								<div class="tao_top_1">
+									<a href="#"><img class="tao_top_tu"src="../images/tengxun_71.gif"/></a>
+									<div class="tao_top_1_right">
+										<a class="zi_tao_top" href="#">腾大有客 | 听“W”创始人李三水现场分享野狗三字经</a><br/>
+										<img src="../images/tengxun_65.gif"/>
+										<span class="zi_tao_top_2">2016-03-22 20:14</span><br/>
+										<span class="zi_tao_top_1">广告界黑马W创始人李三水现场分享野狗三字经</span>
+									</div>
+								</div>
+						</div>
+
+						<div class="tao_bottom">
+								<div class="tao_top_1">
+									<a href="#"><img class="tao_top_tu"src="../images/tengxun_76.gif"/></a>
+									<div class="tao_top_1_right">
+										<a class="zi_tao_top" href="#">腾大有客 | 网络文学江湖史</a><br/>
+										<img src="../images/tengxun_65.gif"/>
+										<span class="zi_tao_top_2">2016-03-04 11:01</span><br/>
+										<span class="zi_tao_top_1">本期“腾大有客”邀请到阅文集团CEO、起点中文网创始人吴文辉一起聊聊“网络文学江湖史”，精彩不容错过。</span>
+									</div>
+								</div>
+						</div>
+					</div>
+					
+					
+				</div><!--这是bodyer_2的div-->
+
+				<div class="bodyer_3">
+					<img  class="nav_tu" src="../images/tengxun_36.gif"/>
+					<span class="zi_nav">专题课程</span>
+					<a class="zi_more" href="#">more</a>
+					<div class="tao">
+						<div class="tao_left">
+							<a href="#"><img src="../images/tengxun_82.gif"/></a>
+							<a class="tao_left_nav" href="#">2016中国IT领导峰会</a>
+							<span class="tao_left_nav_zi">中国（深圳）IT领袖峰会由深圳市人民政府和数字中国联合会联合主办宣布，...</span>
+						</div>
+						<div class="tao_center">
+							<a href="#"><img src="../images/tengxun_83.gif"/></a>
+							<a class="tao_left_nav" href="#">鹅厂wò谈会</a>
+							<span class="tao_left_nav_zi">真正的交谈，适合夜晚，腾讯2016实习生招聘在线宣讲会：鹅厂wò谈会开播。</span>
+						</div>
+						<div class="tao_center">
+							<a href="#"><img src="../images/tengxun_84.gif"/></a>
+							<a class="tao_left_nav" href="#">创业中国</a>
+							<span class="tao_left_nav_zi">腾讯科技2016年1月上线的国内第一档互联网高端对话节目， 二十位行业大佬和...</span>
+						</div>
+					</div><!--这是tao的div-->
+				</div><!--这是bodyer_3的div-->
+				
+				<div id="bodyer_4">
+					<img  class="nav_tu" src="../images/tengxun_101.gif"/>
+					<span class="zi_nav">精品活动</span>
+					<a class="zi_more" href="#">more</a>
+					<div class="tao_2">
+						<a href="#"><img class="tao_top_tu"src="../images/tengxun_104.gif"></a>
+						<div class="tao_2_1">
+							<a class="zi_tao_top" href="#">腾讯创业公开课[杭州站]</a><br/>
+									<img src="../images/tengxun_65.gif"/>
+									<span class="zi_tao_top_2">2015年1月24日</span><br/>
+									<span class="zi_tao_top_3">腾讯创业公开课是腾讯公司2014年的重要活动，由腾讯开放平台与腾讯大学合办。通过邀请专家学者、行业翘楚举办一系列大型公开课、论坛，为创业者解决困惑，提升创业能力，扶持创业者最终走向创业成功之路。</span>
+						</div>
+					</div>
+
+					<div class="tao_2">
+						<a href="#"><img class="tao_top_tu"src="../images/tengxun_107.gif"></a>
+						<div class="tao_2_1">
+							<a class="zi_tao_top" href="#">史上最全网游编年史之不可诗意的网游时代</a><br/>
+									<img src="../images/tengxun_65.gif"/>
+									<span class="zi_tao_top_2">2014年12月9日</span><br/>
+									<span class="zi_tao_top_3">12月9日下午两点,史上最全网游编年史来袭！腾讯游戏高级品牌经理刘智鹏（光芒）带来250页的PPT干货分享;近三小时脱口秀;带您回顾历史，理清思路;揭示规律，指引未来。</span>
+						</div>
+					</div>
+
+					<div class="tao_2">
+						<a href="#"><img class="tao_top_tu"src="../images/tengxun_116.gif"/></a>
+						<div class="tao_2_1">
+							<a class="zi_tao_top" href="#">秒选族·斗牛趴</a><br/>
+									<img src="../images/tengxun_65.gif"/>
+									<span class="zi_tao_top_2">2014年11月17日</span><br/>
+									<span class="zi_tao_top_3">11月17日相约腾讯汇，犀利导师和秒选青年间展开的关于"选择"的思想交锋!【秒选族，斗牛趴】—敢选•敢炫•敢争锋。秒选族们，来，斗一场!选择，我要的现在就要!一起来看看这场在“犀利导师”和“秒选青年”间展开的关...</span>
+						</div>
+					</div>
+				</div><!--这是bodyer_4的div-->
+			</div><!--这是bodyer_left的div-->
+		</div><!--这是bodyer_guding的div-->		
+	</div><!--这是bodyer的div-->
+
+	<div id="lan"></div><div id="cheng"></div><div id="lv"></div><div id="hong"></div>
+
+	<div id="footer_1">
+		<div id="footer_1_guding">
+			<div id="footer_1_guding_left">
+				<p class="zi_hezuo">开放平台</p>
+					<a href="#"><img class="tu_footer_1"src="../images/tengxun_119.gif"/></a>
+					<a href="#"><img class="tu_footer_2"src="../images/tengxun_121.gif"/></a>
+					<a href="#"><img class="tu_footer_2"src="../images/tengxun_124.gif"/></a>
+					<a href="#"><img class="tu_footer_2"src="../images/tengxun_126.gif"/></a>
+					<a href="#"><img class="tu_footer_2"src="../images/tengxun_129.gif"/></a>
+					<a href="#"><img class="tu_footer_2"src="../images/tengxun_131.gif"/></a>
+					<a href="#"><img class="tu_footer_3"src="../images/tengxun_143.gif"/></a>
+					<a href="#"><img class="tu_footer_2"src="../images/tengxun_144.gif"/></a>
+					<a href="#"><img class="tu_footer_2"src="../images/tengxun_145.gif"/></a>
+					<a href="#"><img class="tu_footer_2"src="../images/tengxun_147.gif"/></a>
+					<a href="#"><img class="tu_footer_2"src="../images/tengxun_142.gif"/></a>
+					<a href="#"><img class="tu_footer_2"src="../images/tengxun_149.gif"/></a>
+					<a href="#"><img class="tu_footer_3"src="../images/tengxun_161.gif"/></a>
+					<a class="zi_footer" href="#">更多</a>
+					<p class="zi_footer_hezuohuoban">合作伙伴</p>
+					<a class="zi_footer_hezuohuoban_1" href="#">腾讯云论坛</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">TechWeb</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">CSDN</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">36Kr</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">DoNews</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">APP游戏部落</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">天极网</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">凤凰网科技频道</a>
+					<a class="zi_footer_hezuohuoban_1" href="#">易观网</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">馒头商学院</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">雷锋网</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">飞象网</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">数码港</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">艾瑞网</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">落伍者</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">LAMP人</a>
+					<a class="zi_footer_hezuohuoban_2" href="#">QQ浏览器</a>
+
+			</div>
+			<div id="footer_1_guding_right">
+				<p class="zi_footer_right">收听微博</p>
+				<div class="div_footer_right">
+					<a class="zi_footer_right_1"href="#"><img class="tu_float" src="../images/tengxun_134.gif"/>开放平台学院</a>
+				</div>
+				<p class="zi_footer_right_2">关注空间</p>
+				<div class="div_footer_right">
+					<a class="zi_footer_right_1"href="#"><img class="tu_float" src="../images/tengxun_156.gif"/>开放平台学院</a>
+				</div>
+			</div>
+		</div><!--这是footer_1_guding的div-->
+	</div><!--这是footer_1的div-->
+	<div id="footer_2">
+		<div id="footer_2_guding">
+			<a  class="zi_footer_2_guding"href="#">服务协议</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a class="zi_footer_2_guding" href="#">隐私政策</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a  class="zi_footer_2_guding"href="#">版权保护投诉指引</a>
+			<span class="zi_footer_2_guding_1">Copyright © 1998 - 2016 Tencent. All Rights Reserved.</span>
+			<span class="zi_footer_2_guding_1">腾讯公司 版权所有</span>
+		</div>
+	</div>
+	<div  id="erweima">
+		<p class="zi_erweima">手机看直播学干货</p>
+		<img id="erweima_benti" src="../images/tenguxn_45.gif"/>
+        <p class="zi_erweima">关注腾讯大学公号</p>
+	</div>
+</body>
+</html>
